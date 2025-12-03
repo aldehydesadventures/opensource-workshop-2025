@@ -37,4 +37,8 @@ Accounts: A GitHub Account (Please sign up before the session).
 Mindset: Be ready to make mistakes, that's how we learn. :)
 
 
+## 🤝 Contribution Guidelines
+
+This documentation website is itself an open-source project. If you spot a typo or want to improve a section, feel free to fork this repository and submit a PR!
+
 
