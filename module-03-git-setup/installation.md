@@ -12,7 +12,7 @@ Go to --> [Git](https://git-scm.com/downloads)
 
 We'll see something like this:
 
-![alt text](Images and vids\image.png)
+<img src="Images and vids\image.png" alt="Alt text">
 
 
 ## <img src="Images and vids\operating_system.png" alt="Alt text" width="20" height="20"> 2. Choose your operating system and download the .exe file:
