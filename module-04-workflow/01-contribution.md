@@ -93,8 +93,12 @@ All the changes are made in the the branch add-my-name, now we'll merge this bra
 
 Your changes are currently only on your laptop. Let's send them to your GitHub Fork.
 
+Run the following commands one by one:
+
 ```
-git push <URL-of-YOUR-fork>
+git remote add origin <URL-of-YOUR-fork>
+git branch -M main
+git push -u origin main
 ```
 
 **Step 7: The Pull Request (The "Ask")**
